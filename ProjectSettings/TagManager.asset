@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - PlayerBullet
+  - EnemyBullet
+  - Boundary
+  - Destroy
+  - Food
+  - Gift
+  - Upgrade
+  - collide
+  - Boss
+  - ParentHere
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Player Bullet
+  - Enemy
+  - Enemy Bullet
+  - Pickup
+  - Destroy
+  - Boundary
+  - Ignore
+  - Food
+  - Swarm Top
+  - Different Destroy
+  - extra bloom
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
